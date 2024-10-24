@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kafikupa.github.io/sitemap/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/VJS/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/cmB/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/qfW/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/sJy/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/yJl/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/HRO/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/GjK/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/QLm/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/xmc/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/bMO/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/SoH/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/twX/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/dWV/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/jrR/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/vCZ/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/fFR/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/ZYs/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/cNk/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/UtG/sitemap_index.kafikupa
+Sitemap: https://kafikupa.github.io/NVg/sitemap_index.kafikupa
